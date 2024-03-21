@@ -1,2 +1,2 @@
-# teszt
-Teszt repo
+# test
+Test repo
